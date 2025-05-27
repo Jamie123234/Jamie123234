@@ -25,7 +25,7 @@ I'm a passionate technologist and the CEO of AppCraft Studios, focused on transf
 I'm always open to collaborating on exciting and challenging projects, whether remote or locally based in Cape Town. I'm particularly interested in opportunities within AI, full-stack development, and innovative mobile applications.
 📫 Get In Touch
  * Email: jamieabrahams123234@gmail.com
- * LinkedIn: [Your LinkedIn Profile URL here - highly recommended to add this!]
+ * LinkedIn: https://www.linkedin.com/in/jamie-abrahams-0a96552b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 <!---
 Jamie123234/Jamie123234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
