@@ -47,4 +47,4 @@ I'm always open to collaborating on exciting and challenging projects, whether r
 ## 📫 Get In Touch
 Email: jamieabrahams123234@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/jamie-abrahams-0a96552b5/
+LinkedIn: https://www.linkedin.com/in/jamie-abrahams/
