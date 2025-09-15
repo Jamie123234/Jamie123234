@@ -17,7 +17,7 @@ Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java
 
 Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Scikit-Learn, Matplotlib
 
-AI/ML: Anomaly Detection, CNNs, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV
+AI/ML: Anomaly Detection, CNNs, NLP, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV
 
 Platforms & Tools: Google Cloud Platform (GCP), Azure, Firebase, Supabase, RevenueCat, Anaconda
 
@@ -26,9 +26,11 @@ Databases: Proficient with various database solutions for modern application dev
 Development Practices: API Integration, Full-Stack Development, Agile Methodologies.
 
 ## ✨ Project Highlights
-Project Aether's Eye (In Progress): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV.
-
 Slip-Scan: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning.
+
+RecruitAI (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching.
+
+Project Aether's Eye (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV.
 
 Brain Tumor Diagnostic Model: Engineered a high-precision (>95% accuracy) model leveraging NumPy and Scikit-Learn for brain tumor identification from MRI data.
 
