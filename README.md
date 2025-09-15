@@ -26,15 +26,15 @@ Databases: Proficient with various database solutions for modern application dev
 Development Practices: API Integration, Full-Stack Development, Agile Methodologies.
 
 ## ✨ Project Highlights
-Slip-Scan: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning.
+Slip-Scan🧾: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning.
 
-RecruitAI (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching.
+RecruitAI👔 (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching.
 
-Project Aether's Eye (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV.
+Project Aether's Eye👽 (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV.
 
-Brain Tumor Diagnostic Model: Engineered a high-precision (>95% accuracy) model leveraging NumPy and Scikit-Learn for brain tumor identification from MRI data.
+Brain Tumor Diagnostic Model🧠: Engineered a high-precision (>95% accuracy) model leveraging NumPy and Scikit-Learn for brain tumor identification from MRI data.
 
-Royal Cape Yacht Club Systems Overhaul: Led a comprehensive modernization of legacy systems, employing Flutter, Dart, and modern web technologies.
+Royal Cape Yacht Club Systems Overhaul⛵: Led a comprehensive modernization of legacy systems, employing Flutter, Dart, and modern web technologies.
 
 ## 🌱 Currently Exploring
 Advanced techniques in ethical hacking and cybersecurity.
