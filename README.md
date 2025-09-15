@@ -19,7 +19,7 @@ Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Sci
 
 AI/ML: Anomaly Detection, CNNs, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV
 
-Platforms & Tools: Google Cloud Platform (GCP), Firebase, Supabase, RevenueCat
+Platforms & Tools: Google Cloud Platform (GCP), Azure, Firebase, Supabase, RevenueCat, Anaconda
 
 Databases: Proficient with various database solutions for modern application development.
 
