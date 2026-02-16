@@ -13,13 +13,13 @@ Data Science: Extracting insights and building data-driven solutions.
 Beyond tech, I'm keenly interested in Astronomy and Aviation.
 
 ## 💡 Key Skills & Technologies
-Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java
+Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java, Kotlin, SQL, Delphi, PHP, Node, Typescript
 
-Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Scikit-Learn, Matplotlib
+Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Scikit-Learn, Matplotlib, Blazor, Kotlin, Jetpack Compose.
 
-AI/ML: Anomaly Detection, CNNs, NLP, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV
+AI/ML: Anomaly Detection, CNNs, NLP, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV.
 
-Platforms & Tools: Google Cloud Platform (GCP), Azure, Firebase, Supabase, RevenueCat, Anaconda
+Platforms & Tools: Google Cloud Platform (GCP), Azure, Firebase, Supabase, RevenueCat, Anaconda, MongoDB.
 
 Databases: Proficient with various database solutions for modern application development.
 
