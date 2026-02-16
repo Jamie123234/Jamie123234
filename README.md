@@ -26,13 +26,15 @@ Databases: Proficient with various database solutions for modern application dev
 Development Practices: API Integration, Full-Stack Development, Agile Methodologies.
 
 ## ✨ Project Highlights
-Slip-Scan🧾: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning.
+Slip-Scan🧾: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning - https://www.slip-scan.com/.
 
-RecruitAI👔 (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching.
+RecruitAI👔 (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching - https://recruitai.co.za/.
 
-Project Aether's Eye👽 (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV.
+Project Aether's Eye👽 (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV - https://jamie123234.github.io/project_aether/.
 
 Brain Tumor Diagnostic Model🧠: Engineered a high-precision (>95% accuracy) model leveraging NumPy and Scikit-Learn for brain tumor identification from MRI data.
+
+Universal Agentic Framework: A neural compiler that replaces human-readable syntax with direct bytecode generation. AI that speaks in machine code, executing at native performance across any platform -https://jamie123234.github.io/universal_agentic_framework/.
 
 Royal Cape Yacht Club Systems Overhaul⛵: Led a comprehensive modernization of legacy systems, employing Flutter, Dart, and modern web technologies.
 
