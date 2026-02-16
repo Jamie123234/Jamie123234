@@ -13,7 +13,7 @@ Data Science: Extracting insights and building data-driven solutions.
 Beyond tech, I'm keenly interested in Astronomy and Aviation.
 
 ## 💡 Key Skills & Technologies
-Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java, Kotlin, SQL, Delphi, PHP, Node, Typescript
+Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java, Kotlin, SQL, Delphi, PHP, Node, Typescript.
 
 Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Scikit-Learn, Matplotlib, Blazor, Kotlin, Jetpack Compose.
 
