@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050814,20:0B132B,45:1C2541,70:0284C7,100:00F2FE&height=240&section=header&text=Jamie%20Abrahams&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36" width="100%" alt="Jamie Abrahams Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,20:0A0F1D,45:0F172A,70:1E1B4B,90:1D4ED8,100:0EA5E9&height=240&section=header&text=Jamie%20Abrahams&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36" width="100%" alt="Jamie Abrahams Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+at+AppCraft+Studios;AI+Architect+%2B+Multi-Model+Pipelines;Full-Stack+%26+Enterprise+Cloud+Systems;Cross-Platform+Mobile+(Flutter+%26+Jetpack+Compose);Building+Offline+IoT+Mesh+%26+Autonomous+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+at+AppCraft+Studios;AI+Architect+%2B+Multi-Model+Pipelines;Full-Stack+%26+Enterprise+Cloud+Systems;Cross-Platform+Mobile+(Flutter+%26+Jetpack+Compose);Building+Offline+IoT+Mesh+%26+Autonomous+Agents" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://jamieabrahams.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-jamieabrahams.com-0B132B?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-jamieabrahams.com-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/jamie-abrahams/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Jamie_Abrahams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,9 +16,9 @@
       <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Jamie123234" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Jamie123234-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Jamie123234-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Base-Cape_Town,_ZA-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cape Town" />
+    <img src="https://img.shields.io/badge/Base-Cape_Town,_ZA-065F46?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Cape Town" />
   </p>
 
   <p align="center">
@@ -27,7 +27,7 @@
     </a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050814,50:0284C7,100:00F2FE&height=3&width=100%" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:030712,35:0F172A,75:1D4ED8,100:0EA5E9&height=3&width=100%" width="100%" alt="Divider" />
 </div>
 
 <br/>
