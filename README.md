@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,10&height=220&section=header&text=Jamie%20Abrahams&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Architect+%7C+AI+Engineer;Founder+%26+CEO+at+AppCraft+Studios;Full-Stack+%26+Mobile+Specialist;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 ## 👋 Hi, I'm Jamie Abrahams (@Jamie123234)
 I'm a passionate technologist and the CEO of AppCraft Studios, focused on architecting intelligent software that solves complex problems.
 
