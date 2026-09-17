@@ -12,21 +12,13 @@
     alt="Typing Subtitle" 
   />
 
-  <!-- Unified Dark Social & Location Badges -->
+  <!-- Social & Location Badges -->
   <p align="center">
-    <a href="https://jamieabrahams.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0A0F1D?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/jamie-abrahams/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A0F1D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="mailto:jamieabrahams123234@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0A0F1D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-    </a>
-    <a href="https://github.com/Jamie123234?tab=followers" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0A0F1D?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Cape_Town,_ZA-0A0F1D?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Cape Town" />
+    <a href="https://jamieabrahams.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0A0F1D?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/jamie-abrahams/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0F1D?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+    <a href="mailto:jamieabrahams123234@gmail.com"><img src="https://img.shields.io/badge/-Email-0A0F1D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+    <a href="https://github.com/Jamie123234?tab=followers" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0A0F1D?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/-Cape_Town,_ZA-0A0F1D?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Cape Town" />
   </p>
 
   <!-- Tech Stack Icons (Unlinked) -->
