@@ -34,7 +34,7 @@ I'm a passionate technologist and the CEO of AppCraft Studios, focused on archit
 * **Skye Elevators Operations Platform 🛗:** Dual-interface management and field operations suite built with Flutter and React, implementing role-based access control (RBAC), live technician allocation, and asset service logging.
 * **Universal Agentic Framework ⚡:** Experimental neural runtime engine designed to compile natural language commands directly into WebAssembly binary bytecode for native execution speeds - https://jamie123234.github.io/universal_agentic_framework/
 * **MoneyQuest 🪙:** Gamified personal budget tracking Android application engineered with Jetpack Compose, local Room database persistence, and Firebase cloud synchronisation.
-* **RecruitAI 👔 (Coming Soon):** Intelligent recruitment platform using backend scrapers and candidate matching algorithms for automated CV evaluation and unbiased job alignment - https://recruitai.co.za/
+* **RecruitAI 👔:** Intelligent recruitment platform using backend scrapers and candidate matching algorithms for automated CV evaluation and unbiased job alignment - https://recruitai.co.za/
 * **Project Aether's Eye 👽 (Coming Soon):** Autonomous astronomical anomaly detection pipeline with a dual-AI core, combining a TensorFlow CNN for classification and a PyTorch neural network for event prioritisation - https://jamie123234.github.io/project_aether/
 * **Botavia 🌿:** Native Android application using CameraX and Jetpack Compose for real-time camera previewing and optical nature specimen identification.
 * **Brain Tumor Diagnostic Model 🧠:** High-precision diagnostic classifier (>95% accuracy) engineered using NumPy and Scikit-Learn for structural brain anomaly identification from MRI scans.
