@@ -29,7 +29,7 @@ I'm a passionate technologist and the CEO of AppCraft Studios, focused on archit
 ## ✨ Project Highlights
 * **FinYang AI 📊:** Universal bank statement forensic parsing and underwriting engine that reconciles multi-account financial ledgers to the cent with automated credit memorandums - https://finyang.net/
 * **CapeFin AI 💼:** Enterprise credit underwriting and financial document extraction platform engineered for asset-based finance and logistics risk assessment.
-* **AfriBush 🐾:** An off-grid African wilderness OS and LoRa/BLE mesh platform featuring sub-30 MB offline satellite GIS, deterministic FGASA trait matrices, and anti-poaching safeguards[cite: 1] - https://afribush.com/[cite: 1]
+* **AfriBush 🐾:** An off-grid African wilderness OS and LoRa/BLE mesh platform featuring sub-30 MB offline satellite GIS, deterministic FGASA trait matrices, and anti-poaching safeguards - https://afribush.com/
 * **Slip-Scan 🧾:** Commercial AI-driven receipt and invoice management platform built with Flutter, featuring batch OCR scanning, offline synchronisation, and direct integrations with Xero and Sage - https://www.slip-scan.com/
 * **Skye Elevators Operations Platform 🛗:** Dual-interface management and field operations suite built with Flutter and React, implementing role-based access control (RBAC), live technician allocation, and asset service logging.
 * **Universal Agentic Framework ⚡:** Experimental neural runtime engine designed to compile natural language commands directly into WebAssembly binary bytecode for native execution speeds - https://jamie123234.github.io/universal_agentic_framework/
