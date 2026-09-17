@@ -1,54 +1,45 @@
-## 👋 Hi, I’m Jamie Abrahams (@Jamie123234)
+## 👋 Hi, I'm Jamie Abrahams (@Jamie123234)
 I'm a passionate technologist and the CEO of AppCraft Studios, focused on architecting intelligent software that solves complex problems.
 
 ## 🚀 My Focus & Interests
-Artificial Intelligence & Machine Learning: Designing multi-model AI pipelines, particularly in computer vision, OCR, and predictive analytics.
-
-Full-Stack Development: Building robust and scalable applications from front-end to back-end.
-
-Mobile Application Development: Crafting intuitive cross-platform mobile experiences with Flutter.
-
-Data Science: Extracting insights and building data-driven solutions.
-
-Beyond tech, I'm keenly interested in Astronomy and Aviation.
+* **Artificial Intelligence & Machine Learning:** Designing multi-model AI pipelines, particularly in computer vision, OCR, and predictive analytics.
+* **Full-Stack & Systems Architecture:** Building robust, scalable platforms spanning enterprise ASP.NET Core MVC backends, modern React/Next.js interfaces, low-level runtime engines, and off-grid mesh protocols.
+* **Mobile Application Development:** Crafting intuitive, high-performance mobile experiences using Flutter, Kotlin, and Jetpack Compose.
+* **Data Science & Financial Intelligence:** Extracting actionable insights, reconciling unstructured transactional documents, and engineering offline geospatial mapping systems.
+* **Beyond Tech:** Keenly interested in astronomy, aviation, and aerial photography.
 
 ## 💡 Key Skills & Technologies
-Languages: Python, Dart, C#, JavaScript, HTML, CSS, Java, Kotlin, SQL, Delphi, PHP, Node, Typescript.
-
-Frameworks/Libraries: Flutter, TensorFlow, PyTorch, .NET Core, Flask, NumPy, Scikit-Learn, Matplotlib, Blazor, Kotlin, Jetpack Compose.
-
-AI/ML: Anomaly Detection, CNNs, NLP, RAG, OCR, Regression Models, AI Prompt Injection, OpenCV.
-
-Platforms & Tools: Google Cloud Platform (GCP), Azure, Firebase, Supabase, RevenueCat, Anaconda, MongoDB.
-
-Databases: Proficient with various database solutions for modern application development.
-
-Development Practices: API Integration, Full-Stack Development, Agile Methodologies.
+* **Languages:** Python, Dart, C#, TypeScript, JavaScript, Kotlin, Java, C++, SQL, PHP, Delphi, HTML, CSS.
+* **Frameworks & Libraries:** Flutter, React, Next.js, ASP.NET Core MVC, Jetpack Compose, Node.js, Flask, Blazor, TensorFlow, PyTorch, Scikit-Learn, NumPy, MapLibre.
+* **AI & Vision:** Computer Vision, OCR Pipelines, Document Parsing, RAG, Anomaly Detection, CNNs, Generative AI SDKs, OpenCV.
+* **Cloud & DevOps:** Google Cloud Platform (GCP), Microsoft Azure, Firebase, Supabase, Vercel, RevenueCat.
+* **Databases:** PostgreSQL, SQLite (Drift), Room (Android), MongoDB, SQL Server.
+* **Hardware & Systems:** WebAssembly (Wasm), LoRa RF Mesh, BLE GATT Firmware (FreeRTOS), Android CameraX, RESTful APIs, Role-Based Access Control (RBAC), Agile Methodologies.
 
 ## ✨ Project Highlights
-Slip-Scan🧾: Architected and developed an AI-driven RAG OCR engine using Flutter for advanced invoice and receipt scanning - https://www.slip-scan.com/.
-
-RecruitAI👔 (Coming Soon): Conceptualizing an intelligent platform to streamline the recruitment pipeline, using AI for automated resume screening and unbiased candidate matching - https://recruitai.co.za/.
-
-Project Aether's Eye👽 (Coming Soon): Designing an autonomous pipeline for astronomical anomaly detection. This system features a dual-AI core, using a TensorFlow CNN for object classification and a PyTorch neural network for event prioritization, all orchestrated with Python and OpenCV - https://jamie123234.github.io/project_aether/.
-
-Brain Tumor Diagnostic Model🧠: Engineered a high-precision (>95% accuracy) model leveraging NumPy and Scikit-Learn for brain tumor identification from MRI data.
-
-Universal Agentic Framework: A neural compiler that replaces human-readable syntax with direct bytecode generation. AI that speaks in machine code, executing at native performance across any platform -https://jamie123234.github.io/universal_agentic_framework/.
-
-Royal Cape Yacht Club Systems Overhaul⛵: Led a comprehensive modernization of legacy systems, employing Flutter, Dart, and modern web technologies.
+* **FinYang AI 📊:** Universal bank statement forensic parsing and underwriting engine that reconciles multi-account financial ledgers to the cent with automated credit memorandums - https://finyang.net/
+* **CapeFin AI 💼:** Enterprise credit underwriting and financial document extraction platform engineered for asset-based finance and logistics risk assessment.
+* **AfriBush 🐾:** An off-grid African wilderness OS and LoRa/BLE mesh platform featuring sub-30 MB offline satellite GIS, deterministic FGASA trait matrices, and anti-poaching safeguards[cite: 1] - https://afribush.com/[cite: 1]
+* **Slip-Scan 🧾:** Commercial AI-driven receipt and invoice management platform built with Flutter, featuring batch OCR scanning, offline synchronisation, and direct integrations with Xero and Sage - https://www.slip-scan.com/
+* **Skye Elevators Operations Platform 🛗:** Dual-interface management and field operations suite built with Flutter and React, implementing role-based access control (RBAC), live technician allocation, and asset service logging.
+* **Universal Agentic Framework ⚡:** Experimental neural runtime engine designed to compile natural language commands directly into WebAssembly binary bytecode for native execution speeds - https://jamie123234.github.io/universal_agentic_framework/
+* **MoneyQuest 🪙:** Gamified personal budget tracking Android application engineered with Jetpack Compose, local Room database persistence, and Firebase cloud synchronisation.
+* **RecruitAI 👔 (Coming Soon):** Intelligent recruitment platform using backend scrapers and candidate matching algorithms for automated CV evaluation and unbiased job alignment - https://recruitai.co.za/
+* **Project Aether's Eye 👽 (Coming Soon):** Autonomous astronomical anomaly detection pipeline with a dual-AI core, combining a TensorFlow CNN for classification and a PyTorch neural network for event prioritisation - https://jamie123234.github.io/project_aether/
+* **Botavia 🌿:** Native Android application using CameraX and Jetpack Compose for real-time camera previewing and optical nature specimen identification.
+* **Brain Tumor Diagnostic Model 🧠:** High-precision diagnostic classifier (>95% accuracy) engineered using NumPy and Scikit-Learn for structural brain anomaly identification from MRI scans.
+* **Global Logistics Management System 🚢:** Enterprise logistics command centre developed with ASP.NET Core MVC, handling complex shipping schedules, multi-tier data processing, and relational database integrity.
+* **Royal Cape Yacht Club Systems Overhaul ⛵:** Led a comprehensive modernisation of core legacy operations and membership workflows, employing Flutter, Dart, and modern web technologies.
 
 ## 🌱 Currently Exploring
-Advanced techniques in ethical hacking and cybersecurity.
-
-Deepening knowledge in specialized areas of data science and big data analytics.
-
-Continuously refining full-stack development practices with emerging technologies.
+* Advanced techniques in ethical hacking, application security, and penetration testing.
+* Compilers, WebAssembly runtimes, and low-level agentic execution architectures.
+* Long-range off-grid radio mesh telemetry and resilient embedded field devices.
 
 ## 💞️ Let's Collaborate!
-I'm always open to collaborating on exciting and challenging projects, whether remote or locally based in Cape Town. I'm particularly interested in opportunities within AI, full-stack development, and innovative mobile applications.
+I'm always open to collaborating on challenging software engineering and AI projects, whether remote or locally in Cape Town. I am especially keen on opportunities in machine learning, full-stack enterprise systems, and mobile application engineering.
 
 ## 📫 Get In Touch
-Email: jamieabrahams123234@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/jamie-abrahams/
+* **Email:** jamieabrahams123234@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/jamie-abrahams/
+* **Website:** https://jamieabrahams.com/
