@@ -1,35 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,20:0A0F1D,45:0F172A,70:1E1B4B,90:1D4ED8,100:0EA5E9&height=240&section=header&text=Jamie%20Abrahams&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36" width="100%" alt="Jamie Abrahams Banner" />
+  <!-- Dynamic Rich Wave Banner -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0A0F1D,25:1E1B4B,50:4338CA,75:2563EB,100:38BDF8&height=240&section=header&text=Jamie%20Abrahams&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36" 
+    width="100%" 
+    alt="Jamie Abrahams Banner" 
+  />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+at+AppCraft+Studios;AI+Architect+%2B+Multi-Model+Pipelines;Full-Stack+%26+Enterprise+Cloud+Systems;Cross-Platform+Mobile+(Flutter+%26+Jetpack+Compose);Building+Offline+IoT+Mesh+%26+Autonomous+Agents" alt="Typing SVG" />
-  </a>
+  <!-- Typing Subtitle -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+at+AppCraft+Studios;AI+Architect+%2B+Multi-Model+Pipelines;Full-Stack+%26+Enterprise+Cloud+Systems;Cross-Platform+Mobile+(Flutter+%26+Jetpack+Compose);Building+Offline+IoT+Mesh+%26+Autonomous+Agents" 
+    alt="Typing Subtitle" 
+  />
 
+  <!-- Unified Dark Social & Location Badges -->
   <p align="center">
     <a href="https://jamieabrahams.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-jamieabrahams.com-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-0A0F1D?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/jamie-abrahams/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Jamie_Abrahams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A0F1D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="mailto:jamieabrahams123234@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-0A0F1D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
-    <a href="https://github.com/Jamie123234" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Jamie123234-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/Jamie123234?tab=followers" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0A0F1D?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Base-Cape_Town,_ZA-065F46?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Cape Town" />
+    <img src="https://img.shields.io/badge/Cape_Town,_ZA-0A0F1D?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Cape Town" />
   </p>
 
+  <!-- Tech Stack Icons (Unlinked) -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,dart,flutter,cs,dotnet,react,nextjs,ts,kotlin,wasm,postgres,gcp,azure,docker,git&theme=dark" alt="Tech Stack Icons" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,cs,dotnet,react,nextjs,ts,kotlin,wasm,postgres,gcp,azure,docker,git&theme=dark" alt="Tech Stack Icons" />
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:030712,35:0F172A,75:1D4ED8,100:0EA5E9&height=3&width=100%" width="100%" alt="Divider" />
+  <!-- Synchronised Gradient Divider -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0A0F1D,30:1E1B4B,60:4338CA,85:2563EB,100:38BDF8&height=3&width=100%" 
+    width="100%" 
+    alt="Divider" 
+  />
 </div>
-
 <br/>
 
 ## 👋 Hi, I'm Jamie Abrahams (@Jamie123234)
